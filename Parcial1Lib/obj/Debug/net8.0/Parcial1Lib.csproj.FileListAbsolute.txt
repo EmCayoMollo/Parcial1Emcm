@@ -1,0 +1,12 @@
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\bin\Debug\net8.0\Parcial1Lib.deps.json
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\bin\Debug\net8.0\Parcial1Lib.dll
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\bin\Debug\net8.0\Parcial1Lib.pdb
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.AssemblyInfoInputs.cache
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.AssemblyInfo.cs
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.csproj.CoreCompileInputs.cache
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.sourcelink.json
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.dll
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\refint\Parcial1Lib.dll
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\Parcial1Lib.pdb
+C:\Users\edzon\Desktop\sis457\Parcial1Emcm\Parcial1Lib\obj\Debug\net8.0\ref\Parcial1Lib.dll
