@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parcial1Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2f6409196cb4eedaaafb87f0f0f51f6597532b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d612f51e4fd1449ab95f2f96f2e00ab90bc6953")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parcial1Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parcial1Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

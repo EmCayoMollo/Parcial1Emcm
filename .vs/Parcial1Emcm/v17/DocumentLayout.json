@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|c:\\users\\edzon\\desktop\\sis457\\parcial1emcm\\parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB790F4F-A369-4E2D-911D-A7B555A4E45F}|Parcial1test\\Parcial1test.csproj|c:\\users\\edzon\\desktop\\sis457\\parcial1emcm\\parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB790F4F-A369-4E2D-911D-A7B555A4E45F}|Parcial1test\\Parcial1test.csproj|solutionrelative:parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|c:\\users\\edzon\\desktop\\sis457\\parcial1emcm\\parcial1lib\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB790F4F-A369-4E2D-911D-A7B555A4E45F}|Parcial1test\\Parcial1test.csproj|c:\\users\\edzon\\desktop\\sis457\\parcial1emcm\\parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB790F4F-A369-4E2D-911D-A7B555A4E45F}|Parcial1test\\Parcial1test.csproj|solutionrelative:parcial1test\\testunittriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|c:\\users\\edzon\\desktop\\sis457\\parcial1emcm\\parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3786BF73-EF59-4E52-87D8-06E5756845F5}|Parcial1Lib\\Parcial1Lib.csproj|solutionrelative:parcial1lib\\figurageometrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Circulo.cs",
-              "RelativeDocumentMoniker": "Parcial1Lib\\Circulo.cs",
-              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Circulo.cs",
-              "RelativeToolTip": "Parcial1Lib\\Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:30:36.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Triangulo.cs",
-              "RelativeDocumentMoniker": "Parcial1Lib\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Triangulo.cs",
-              "RelativeToolTip": "Parcial1Lib\\Triangulo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:30:16.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestUnitTriangulo.cs",
-              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1test\\TestUnitTriangulo.cs",
-              "RelativeDocumentMoniker": "Parcial1test\\TestUnitTriangulo.cs",
-              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1test\\TestUnitTriangulo.cs",
-              "RelativeToolTip": "Parcial1test\\TestUnitTriangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T00:10:26.309Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -93,7 +54,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Circulo.cs",
+              "RelativeDocumentMoniker": "Parcial1Lib\\Circulo.cs",
+              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Circulo.cs",
+              "RelativeToolTip": "Parcial1Lib\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:30:36.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Parcial1Lib\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\Triangulo.cs",
+              "RelativeToolTip": "Parcial1Lib\\Triangulo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:30:16.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestUnitTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1test\\TestUnitTriangulo.cs",
+              "RelativeDocumentMoniker": "Parcial1test\\TestUnitTriangulo.cs",
+              "ToolTip": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1test\\TestUnitTriangulo.cs",
+              "RelativeToolTip": "Parcial1test\\TestUnitTriangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:10:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FiguraGeometrica.cs",
               "DocumentMoniker": "C:\\Users\\edzon\\Desktop\\sis457\\Parcial1Emcm\\Parcial1Lib\\FiguraGeometrica.cs",
               "RelativeDocumentMoniker": "Parcial1Lib\\FiguraGeometrica.cs",

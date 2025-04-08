@@ -10,16 +10,10 @@ namespace Parcial1Lib
 	{
 		public double base_;
 		public double altura;
-		public double lado1;
-		public double lado2;
-		public double lado3;
-		public Triangulo(double base_, double altura, double lado1, double lado2, double lado3)
+		public Triangulo(double base_, double altura)
 		{
 			this.base_ = base_;
 			this.altura = altura;
-			this.lado1 = lado1;
-			this.lado2 = lado2;
-			this.lado3 = lado3;
 		}
 		public override double Area()
 		{
@@ -27,7 +21,7 @@ namespace Parcial1Lib
 		}
 		public override double Perimetro()
 		{
-			return lado1 + lado2 + lado3;
+			return 3*base_;
 		}
 	}
 }
